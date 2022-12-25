@@ -1,0 +1,8 @@
+Flask~=1.1
+requests
+Pillow
+azure-cognitiveservices-vision-face
+msrestazure
+azure-cognitiveservices-vision-computervision
+opencv-python
+azure-storage-blob
